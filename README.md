@@ -1,2 +1,2 @@
-# frontend_jorci
+# frontend_joraf.net
 Frontend Journal ordinaire
